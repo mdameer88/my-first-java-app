@@ -1,7 +1,7 @@
 class hw{
 public static void main(String args[]){
 for(int i=0;i<=10;i++){
-System.out.println("Bhaghya loves Srikanth");
+System.out.println("Hello");
 }
 }
 }
